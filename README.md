@@ -1,4 +1,4 @@
- 🧠 Mastering AI Tools: TensorFlow & PyTorc
+ 🧠 Mastering AI Tools: TensorFlow & PyTorch
 
 👥 Group Members
 - Issa Rukayat Morayo  
@@ -61,7 +61,7 @@ By studying both, we gained an appreciation of how theoretical models are transf
 
 Our group prepared a concise **3-minute presentation** explaining the theoretical framework, key differences, and real-world applications of TensorFlow and PyTorch.  
 
-🎥 **Presentation Video Link:** [Add Presentation Link Here]  
+🎥 **Presentation Video Link:**  
 
 Each group member contributed as follows:  
 - **Issa Rukayat Morayo** — Introduction and overview of TensorFlow  
